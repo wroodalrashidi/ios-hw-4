@@ -23,8 +23,8 @@
                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="tom_and_jerry_PNG34" translatesAutoresizingMaskIntoConstraints="NO" id="1K7-ZW-BjI">
-                                <rect key="frame" x="52" y="86" width="311" height="301"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="tom_and_jerry_PNG34" translatesAutoresizingMaskIntoConstraints="NO" id="G8R-1N-T8H">
+                                <rect key="frame" x="37" y="131" width="341" height="268"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>

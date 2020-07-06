@@ -13,10 +13,10 @@
 		0B96ABA624A73B60009AB4FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B96ABA424A73B60009AB4FD /* Main.storyboard */; };
 		0B96ABA824A73B61009AB4FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B96ABA724A73B61009AB4FD /* Assets.xcassets */; };
 		0B96ABAB24A73B61009AB4FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B96ABA924A73B61009AB4FD /* LaunchScreen.storyboard */; };
-		0BAF414D24AA80C600A0E1BD /* dog.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0BAF414C24AA80C500A0E1BD /* dog.mp3 */; };
-		0BAF414F24AA80CA00A0E1BD /* cat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0BAF414E24AA80C900A0E1BD /* cat.mp3 */; };
-		0BAF415124AA85BB00A0E1BD /* tomAndJerry.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0BAF415024AA85BB00A0E1BD /* tomAndJerry.mp3 */; };
 		0BF9DBB824AACCBF0013988D /* Whistling.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0BF9DBB724AACCBF0013988D /* Whistling.mp3 */; };
+		0BF9DC7424B3A6E30013988D /* cat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0BF9DC7324B3A6E30013988D /* cat.mp3 */; };
+		0BF9DC7624B3A6F90013988D /* dog.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0BF9DC7524B3A6F90013988D /* dog.mp3 */; };
+		0BF9DC7824B3A70C0013988D /* tomAndJerry.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0BF9DC7724B3A70C0013988D /* tomAndJerry.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,10 +28,10 @@
 		0B96ABA724A73B61009AB4FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0B96ABAA24A73B61009AB4FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0B96ABAC24A73B61009AB4FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0BAF414C24AA80C500A0E1BD /* dog.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = dog.mp3; path = ../../../../../dog.mp3; sourceTree = "<group>"; };
-		0BAF414E24AA80C900A0E1BD /* cat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = cat.mp3; path = ../../../../../cat.mp3; sourceTree = "<group>"; };
-		0BAF415024AA85BB00A0E1BD /* tomAndJerry.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = tomAndJerry.mp3; path = ../../../../../tomAndJerry.mp3; sourceTree = "<group>"; };
 		0BF9DBB724AACCBF0013988D /* Whistling.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Whistling.mp3; path = ../../../../../../Downloads/Whistling.mp3; sourceTree = "<group>"; };
+		0BF9DC7324B3A6E30013988D /* cat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = cat.mp3; path = Assets.xcassets/cat.mp3; sourceTree = "<group>"; };
+		0BF9DC7524B3A6F90013988D /* dog.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = dog.mp3; path = Assets.xcassets/dog.mp3; sourceTree = "<group>"; };
+		0BF9DC7724B3A70C0013988D /* tomAndJerry.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = tomAndJerry.mp3; path = Assets.xcassets/tomAndJerry.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,9 +69,9 @@
 				0B96ABA224A73B60009AB4FD /* ViewController.swift */,
 				0B96ABA424A73B60009AB4FD /* Main.storyboard */,
 				0B96ABA724A73B61009AB4FD /* Assets.xcassets */,
-				0BAF414E24AA80C900A0E1BD /* cat.mp3 */,
-				0BAF414C24AA80C500A0E1BD /* dog.mp3 */,
-				0BAF415024AA85BB00A0E1BD /* tomAndJerry.mp3 */,
+				0BF9DC7324B3A6E30013988D /* cat.mp3 */,
+				0BF9DC7524B3A6F90013988D /* dog.mp3 */,
+				0BF9DC7724B3A70C0013988D /* tomAndJerry.mp3 */,
 				0BF9DBB724AACCBF0013988D /* Whistling.mp3 */,
 				0B96ABA924A73B61009AB4FD /* LaunchScreen.storyboard */,
 				0B96ABAC24A73B61009AB4FD /* Info.plist */,
@@ -139,11 +139,11 @@
 			files = (
 				0BF9DBB824AACCBF0013988D /* Whistling.mp3 in Resources */,
 				0B96ABAB24A73B61009AB4FD /* LaunchScreen.storyboard in Resources */,
+				0BF9DC7824B3A70C0013988D /* tomAndJerry.mp3 in Resources */,
 				0B96ABA824A73B61009AB4FD /* Assets.xcassets in Resources */,
-				0BAF414F24AA80CA00A0E1BD /* cat.mp3 in Resources */,
 				0B96ABA624A73B60009AB4FD /* Main.storyboard in Resources */,
-				0BAF415124AA85BB00A0E1BD /* tomAndJerry.mp3 in Resources */,
-				0BAF414D24AA80C600A0E1BD /* dog.mp3 in Resources */,
+				0BF9DC7424B3A6E30013988D /* cat.mp3 in Resources */,
+				0BF9DC7624B3A6F90013988D /* dog.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
